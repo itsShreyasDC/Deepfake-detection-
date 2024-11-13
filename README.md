@@ -1,7 +1,9 @@
 # Deepfake-detection-
-Deepfake Detection model 
-To run the project
-Download the repo and navigate to django application 
-In cmd run "venv/scripts/activate"(optional)
-Install all requirments
-In cmd command "python manage.py runserver"
+Deepfake Detection model<br/>
+To run the project<br/><br/>
+<ul>
+Download the repo and navigate to django application<br/>
+In cmd run "venv/scripts/activate"(optional)<br/>
+Install all requirments<br/>
+In cmd command "python manage.py runserver"<br/>
+</ul>
